@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abishek Subedi
 ======================================================================================================================================
 
-BackEnd Developer
+BackEnd Developer, Machine Learning, AI
 -----------------
 
 A hardworking and passionate computer science student currently learning machine learning and UI/UX design.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [sabitakiran602@gmail.com](mailto:sabitakiran602@gmail.com)
-* 🚀  I'm currently working on [OUTFLY](http://github.com/AbishekSubedi/outfly)
+* 🚀  I'm currently working on [EMOTIV](http://github.com/AbishekSubedi/emotiv)
 * 🧠  I'm learning Deep Learning, TensorFlow, PyTourch3D, Flutter Framework, React, JavaScript, c++, c
 * 🤝  I'm open to collaborating on any kinds of interesting projects
 * ⚡  I'm secretly Spiderman... but dont't tell anyone
